@@ -1,0 +1,32 @@
+.wall-container{
+    width: 100%;
+    min-height:100vh;
+    border: 10px salmon solid;
+    background-color: teal;
+    padding: 10px;
+    
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: center;
+   align-items: center;
+}
+
+.add-btn1{
+    position: fixed;
+    bottom:10px;
+    right:10px;
+    padding: 10px;
+    background-color:brown;
+    color: white;
+    border: 5px springgreen solid;
+}
+
+.add-btn2{
+    position: fixed;
+    bottom:10px;
+    left:10px;
+    padding: 10px;
+    background-color:brown;
+    color: white;
+    border: 5px springgreen solid;
+}
