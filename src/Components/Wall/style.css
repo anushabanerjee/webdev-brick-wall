@@ -1,32 +1,52 @@
 .wall-container{
-    width: 100%;
-    min-height:100vh;
-    border: 10px salmon solid;
-    background-color: teal;
+    width: 100vw;
+    height:100vh;
+    background-color:rgb(201, 102, 102);
     padding: 10px;
     
     display: flex;
-    flex-wrap: wrap;
-   justify-content: center;
-   align-items: center;
+    flex-flow: row wrap;
 }
 
 .add-btn1{
+    width: 70px;
+    height: 70px;
+    position: fixed;
+    bottom:90px;
+    right:10px;
+    padding: 10px;
+    background-color: springgreen;
+    color: black;
+    font-size: 40px;
+    border-radius: 100%;
+        
+}
+
+.add-btn2{
+    width: 70px;
+    height: 70px;
     position: fixed;
     bottom:10px;
     right:10px;
     padding: 10px;
-    background-color:brown;
+    background-color:red;
+    font-size: 40px;
     color: white;
-    border: 5px springgreen solid;
+    border-radius: 100%;
+    
 }
 
-.add-btn2{
+.add-btn3{
+    width: 90px;
+    height: 70px;
     position: fixed;
+    
     bottom:10px;
     left:10px;
+    position: absolute;
     padding: 10px;
-    background-color:brown;
+    background-color:red;
     color: white;
-    border: 5px springgreen solid;
+    
+    
 }

@@ -22,6 +22,7 @@ class Wall extends React.Component // defining a subclass
         
         // Getting older values of bricks array
         const newBricksArray = [...this.state.bricks];
+        
         // Adding new bricks values to new array
         newBricksArray.push(newBricksArray.length +1);
         
@@ -40,19 +41,30 @@ class Wall extends React.Component // defining a subclass
 
     }
 
+    clearScreen = () => {
+
+        const newBricksArray = []
+        this.setState({bricks:newBricksArray})
+
+    }
+
+     
     // render method returns what is being displayed on the browser
     render = () => {
 
         return(
 
-            <div className="wall-container"> { 
+            <div className="wall-container"> 
 
-                this.state.bricks.map((brick) => {return <Brick name={brick}/>})
+                {this.state.bricks.map((brick) => {
+                    return <Brick key = {brick} name={brick}/>;
+                })}
 
-            }  
+              
             
-            <button className="add-btn1" onClick={this.addMoreBricks}>Add Bricks</button>
-            <button className="add-btn2" onClick={this.deleteBricks} > Delete Bricks </button>
+                <button className="add-btn1" onClick={this.addMoreBricks}>+</button>
+                <button className="add-btn2" onClick={this.deleteBricks} >- </button>
+                <button className="add-btn3" onClick={this.clearScreen} >Clear Screen </button>
             </div>
         ) 
 
