@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/webdev-brick-wall/static/css/main.5cc9423a.chunk.css",
+    "main.css": "/webdev-brick-wall/static/css/main.0063d448.chunk.css",
     "main.js": "/webdev-brick-wall/static/js/main.2fbefe58.chunk.js",
     "main.js.map": "/webdev-brick-wall/static/js/main.2fbefe58.chunk.js.map",
     "runtime-main.js": "/webdev-brick-wall/static/js/runtime-main.221575db.js",
@@ -8,16 +8,16 @@
     "static/js/2.54423ef7.chunk.js": "/webdev-brick-wall/static/js/2.54423ef7.chunk.js",
     "static/js/2.54423ef7.chunk.js.map": "/webdev-brick-wall/static/js/2.54423ef7.chunk.js.map",
     "index.html": "/webdev-brick-wall/index.html",
-    "precache-manifest.cbd9eebc2a68b481bb7a70880c5fc77b.js": "/webdev-brick-wall/precache-manifest.cbd9eebc2a68b481bb7a70880c5fc77b.js",
+    "precache-manifest.50678bddf5161878c5a18fd56976d62b.js": "/webdev-brick-wall/precache-manifest.50678bddf5161878c5a18fd56976d62b.js",
     "service-worker.js": "/webdev-brick-wall/service-worker.js",
-    "static/css/main.5cc9423a.chunk.css.map": "/webdev-brick-wall/static/css/main.5cc9423a.chunk.css.map",
+    "static/css/main.0063d448.chunk.css.map": "/webdev-brick-wall/static/css/main.0063d448.chunk.css.map",
     "static/js/2.54423ef7.chunk.js.LICENSE.txt": "/webdev-brick-wall/static/js/2.54423ef7.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/webdev-brick-wall/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.221575db.js",
     "static/js/2.54423ef7.chunk.js",
-    "static/css/main.5cc9423a.chunk.css",
+    "static/css/main.0063d448.chunk.css",
     "static/js/main.2fbefe58.chunk.js"
   ]
 }

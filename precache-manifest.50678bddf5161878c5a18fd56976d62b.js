@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e0a3a275862be49764cc92e53e893e73",
+    "revision": "528283a8dffd941abc47d8b619922dbc",
     "url": "/webdev-brick-wall/index.html"
   },
   {
-    "revision": "6323614f8bd4e6dee4e9",
-    "url": "/webdev-brick-wall/static/css/main.5cc9423a.chunk.css"
+    "revision": "a27ee5fc974de1f75b41",
+    "url": "/webdev-brick-wall/static/css/main.0063d448.chunk.css"
   },
   {
     "revision": "80324c30f4f3d684b221",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webdev-brick-wall/static/js/2.54423ef7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6323614f8bd4e6dee4e9",
+    "revision": "a27ee5fc974de1f75b41",
     "url": "/webdev-brick-wall/static/js/main.2fbefe58.chunk.js"
   },
   {
