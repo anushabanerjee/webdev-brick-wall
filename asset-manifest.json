@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/webdev-brick-wall/static/css/main.3d098d6e.chunk.css",
+    "main.js": "/webdev-brick-wall/static/js/main.7aca0987.chunk.js",
+    "main.js.map": "/webdev-brick-wall/static/js/main.7aca0987.chunk.js.map",
+    "runtime-main.js": "/webdev-brick-wall/static/js/runtime-main.221575db.js",
+    "runtime-main.js.map": "/webdev-brick-wall/static/js/runtime-main.221575db.js.map",
+    "static/js/2.54423ef7.chunk.js": "/webdev-brick-wall/static/js/2.54423ef7.chunk.js",
+    "static/js/2.54423ef7.chunk.js.map": "/webdev-brick-wall/static/js/2.54423ef7.chunk.js.map",
+    "index.html": "/webdev-brick-wall/index.html",
+    "precache-manifest.5f433949c46ecb13285fc6a00d134055.js": "/webdev-brick-wall/precache-manifest.5f433949c46ecb13285fc6a00d134055.js",
+    "service-worker.js": "/webdev-brick-wall/service-worker.js",
+    "static/css/main.3d098d6e.chunk.css.map": "/webdev-brick-wall/static/css/main.3d098d6e.chunk.css.map",
+    "static/js/2.54423ef7.chunk.js.LICENSE.txt": "/webdev-brick-wall/static/js/2.54423ef7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/webdev-brick-wall/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.221575db.js",
+    "static/js/2.54423ef7.chunk.js",
+    "static/css/main.3d098d6e.chunk.css",
+    "static/js/main.7aca0987.chunk.js"
+  ]
+}
