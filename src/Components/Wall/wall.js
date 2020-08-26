@@ -61,7 +61,7 @@ class Wall extends React.Component // defining a subclass
                 })}
 
               
-            
+                
                 <button className="add-btn1" onClick={this.addMoreBricks}>+</button>
                 <button className="add-btn2" onClick={this.deleteBricks} >- </button>
                 <button className="add-btn3" onClick={this.clearScreen} >Clear Screen </button>
